@@ -54,10 +54,4 @@ build:
    - docker build .
 ```
 
-
-
-
-
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.34.06.png)
-
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.33.50.png)
+![Скрин](https://github.com/garrkiss/8-03-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_22.36.31.png)
