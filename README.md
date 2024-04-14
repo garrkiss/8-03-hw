@@ -11,15 +11,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.22.10.png)
-
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.22.18.png)
-
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.20.15.png)
-
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.20.27.png)
-
-![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.21.10.png)
+![Скрин](https://github.com/garrkiss/8-03-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_21.10.12.png)
 
 ### Задание 2
 ### Что нужно сделать:
