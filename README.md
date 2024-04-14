@@ -25,6 +25,39 @@
 
 ### Решение 2
 
+
+```
+stages:
+  - test
+  - static-analysis
+  - build
+
+test:
+  stage: test
+  image: golang:1.17
+  script: 
+   - go test .
+
+static-analysis:
+ stage: test
+ image:
+  name: sonarsource/sonar-scanner-cli
+  entrypoint: [""]
+ variables:
+ script:
+  - sonar-scanner -Dsonar.projectKey=my_project -Dsonar.sources=. -Dsonar.host.url=http://158.160.118.158:9000 -Dsonar.login=sqp_e8fe2deba4be4ae3d3fff9fcf0a5fcc61b0a9467
+
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+```
+
+
+
+
+
 ![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.34.06.png)
 
 ![Скрин](https://github.com/garrkiss/8-02-hw/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2014.04.24_17.33.50.png)
